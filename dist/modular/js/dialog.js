@@ -535,3 +535,7 @@ gj.dialog.messages['zh-tw'] = {
     Close: '關閉',
     DefaultTitle: '對話框'
 };
+gj.dialog.messages['ua-ua'] = {
+    Close: 'Закрити',
+    DefaultTitle: 'Повідомлення'
+};

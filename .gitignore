@@ -25,6 +25,7 @@ Gijgo.GitHub.csproj
 Gijgo.GitHub.csproj.user
 Gijgo.GitHub.sln
 packages.config
+.npmrc
 
 # Visual Studio 2015 cache/options directory
 .vs/

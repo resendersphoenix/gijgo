@@ -657,6 +657,7 @@
     <Content Include="src\colorpicker\css\colorpicker.base.css" />
     <Content Include="src\colorpicker\js\colorpicker.base.js" />
     <Content Include="src\colorpicker\js\header.txt" />
+    <Content Include="src\core\js\messages\messages.ua-ua.js" />
     <Content Include="src\core\js\messages\messages.zh-cn.js" />
     <Content Include="src\core\js\messages\messages.zh-tw.js" />
     <Content Include="src\core\js\messages\messages.ja-jp.js" />
@@ -689,6 +690,7 @@
     <Content Include="src\dialog\js\messages\messages.tr-tr.js" />
     <Content Include="src\dialog\js\messages\messages.zh-cn.js" />
     <Content Include="src\dialog\js\messages\messages.zh-tw.js" />
+    <Content Include="src\dialog\js\messages\messages.ua-ua.js" />
     <Content Include="src\draggable\js\draggable.base.js" />
     <Content Include="src\draggable\js\header.txt" />
     <Content Include="src\dropdown\css\dropdown.base.css" />
@@ -710,6 +712,7 @@
     <Content Include="src\editor\js\messages\messages.tr-tr.js" />
     <Content Include="src\editor\js\messages\messages.zh-cn.js" />
     <Content Include="src\editor\js\messages\messages.zh-tw.js" />
+    <Content Include="src\editor\js\messages\messages.ua-ua.js" />
     <Content Include="src\fonts\gijgo-material.svg" />
     <Content Include="src\grid\css\grid.base.css" />
     <Content Include="src\grid\css\grid.columnReorder.css" />
@@ -750,6 +753,7 @@
     <Content Include="src\grid\js\messages\messages.tr-tr.js" />
     <Content Include="src\grid\js\messages\messages.zh-cn.js" />
     <Content Include="src\grid\js\messages\messages.zh-tw.js" />
+    <Content Include="src\grid\js\messages\messages.ua-ua.js" />
     <Content Include="src\header.txt" />
     <Content Include="src\grid\js\messages\messages.bg-bg.js" />
     <Content Include="src\grid\js\messages\messages.en-us.js" />

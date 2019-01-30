@@ -1,0 +1,21 @@
+gj.grid.messages['ua-ua'] = {
+    First: 'Перший',
+    Previous: 'Попередній',
+    Next: 'Наступний',
+    Last: 'Останній',
+    Page: 'Сторінка',
+    FirstPageTooltip: 'Перша сторінка',
+    PreviousPageTooltip: 'Попередня сторінка',
+    NextPageTooltip: 'Наступна сторінка',
+    LastPageTooltip: 'Остання сторінка',
+    Refresh: 'Оновити',
+    Of: 'з',
+    DisplayingRecords: 'Показано записи',
+    RowsPerPage: 'Записів на сторінці:',
+    Edit: 'Редагувати',
+    Delete: 'Видалити',
+    Update: 'Оновити',
+    Cancel: 'Відмінити',
+    NoRecordsFound: 'Нема жодного запису.',
+    Loading: 'Завантаження...'
+};
